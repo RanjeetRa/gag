@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
     let audio2 = new Audio();
     //audio.src = "../assets/v.mp3";
     //audio1.src = "../assets/v1.mp3";
-    audio2.src = "../assets/v2.mp3";
+    audio2.src = "./assets/v2.mp3";
     // audio.load();
     // audio.play();
     // audio1.load();
